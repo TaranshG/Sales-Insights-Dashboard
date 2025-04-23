@@ -1,0 +1,5 @@
+Sales Insights Dashboard (SQL + Google Sheets)
+- Built a sales dashboard using Google Sheets and SQL (BigQuery) to analyze product performance over
+time
+- Queried data for revenue trends, order value, and growth
+- Created interactive visuals and applied subqueries for deeper insights
